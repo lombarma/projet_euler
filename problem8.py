@@ -31,5 +31,4 @@ for i in range(len(liste)):
         a = i
 print(maximum)
 print(a)
-print(liste[197])
-
+print(liste[a])
