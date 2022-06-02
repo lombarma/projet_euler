@@ -15,10 +15,7 @@ def k_parmi_n(k, n):
 
 
 compteur = 0
-"""for i in range(1, 101):
-    if k_parmi_n(10, i) >= 1000000:
-        compteur += 1
-print(compteur)"""
+
 
 for i in range(1, 101):
     for j in range(0, i+1):
